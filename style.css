@@ -1,0 +1,48 @@
+
+
+.body{
+    background-image: url("./img/fondoprinci04.jpg");
+}
+
+.header{
+    text-align: center;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    color: yellowgreen;
+    border-color: rgb(77, 204, 236);
+    border: 3px dashed ;
+    background-color: rgb(46, 8, 95);
+    
+    
+}
+.titleprod{
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    text-align: center;
+    color: blue;
+    border-color: rgb(34, 20, 236);
+    border: 3px dashed ;
+    background-color: azure;
+}
+.sectionart{
+    display: flex;
+
+}
+
+.articleone{
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 250px; ;
+    margin-bottom: 80px;
+    width: 10px;
+    height: 200px;
+    
+}
+.sectionservice{
+    text-align: center;
+}
